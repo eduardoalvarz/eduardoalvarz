@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Eduardo, a passionate B.Sc. Physics graduate a
 - **Contribution to the Development of the K’OTO Nanosatellite** - Implemented algorithms for data and signal processing, enhancing the nanosatellite's capabilities for scientific research.
 
 ## 🛠 Skills
-- **Languages:** Python, C++, SQL
+- **Languages:** Python, C++, SQL, R
 - **Frameworks/Tools:** TensorFlow, PyTorch, Pandas, NumPy, Linux, Tableau, Power BI
 - **Areas of Interest:** Machine Learning, Deep Learning, Artificial Intelligence, Data Analysis
 
