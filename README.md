@@ -1,3 +1,4 @@
+## 👋 Introduction
 Welcome to my GitHub profile! I'm Eduardo, a passionate B.Sc. Physics graduate and certified Data Scientist. My academic and professional journey has equipped me with a solid foundation in computational physics, deep learning, and data science. I am particularly fascinated by the power of AI to solve complex problems and to uncover insights from data in innovative ways.
 
 ## 🎓 Education
