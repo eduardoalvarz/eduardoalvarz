@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 ## 📂 Projects
 Here you'll find a portfolio of my projects, showcasing my skills in machine learning, deep learning, and AI. These projects illustrate my ability to apply theoretical knowledge to practical challenges, creating innovative solutions that leverage the latest advancements in technology.
 
-- [Deep Learning for Atmospheric Pollutant Forecasting](Link_to_project)
-- [Webscraping Stock Data Extraction and Visualization](Link_to_project)
+- [Deep Learning for Atmospheric Pollutant Forecasting](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
+- [Webscraping Stock Data Extraction and Visualization](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [luis-eduardo-mauricio-alvarez](https://www.linkedin.com/in/luis-eduardo-mauricio-alvarez/)
