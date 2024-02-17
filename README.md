@@ -22,7 +22,7 @@ Here you'll find a portfolio of my projects, showcasing my skills in machine lea
 
 - [Deep Learning for Atmospheric Pollutant Forecasting](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
 - [Data Analysis for Insurance Cost](https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost)
-- [Webscraping for Stock Data: Extraction and Visualization](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
+- [Webscraping for Stock Data](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [luis-eduardo-mauricio-alvarez](https://www.linkedin.com/in/luis-eduardo-mauricio-alvarez/)
