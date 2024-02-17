@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 Here you'll find a portfolio of my projects, showcasing my skills in machine learning, deep learning, and AI. These projects illustrate my ability to apply theoretical knowledge to practical challenges, creating innovative solutions that leverage the latest advancements in technology.
 
 - [Deep Learning for Atmospheric Pollutant Forecasting](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
+- [Data Analysis for Insurance Cost](https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost)
 - [Webscraping Stock Data Extraction and Visualization](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
 
 ## 📫 How to Reach Me
