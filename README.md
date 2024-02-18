@@ -22,7 +22,7 @@ Here you'll find a portfolio of my projects, showcasing my skills in machine lea
 
 - [Deep Learning for Atmospheric Pollutant: Forecasting](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
 - [Data Analysis for Insurance Cost: Predictions](https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost)
-- [Data Analysis for Historical Automobile Sales: Visualizations](https://github.com/eduardoalvarz)
+- [Data Analysis for Historical Automobile Sales: Visualizations](https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales)
 - [Webscraping for Stock Data](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
 
 ## 📫 How to Reach Me
