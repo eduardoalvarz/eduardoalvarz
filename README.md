@@ -13,9 +13,13 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 - **Satellite Systems Developer - K'OTO Project** - Developed Linux server and data processing algorithms for the K'OTO Nanosatellite project.
 
 ## 🛠 Skills
-- **Languages:** Python, SQL, R
-- **Frameworks/Tools:** TensorFlow, PyTorch, Pandas, NumPy, Linux, Tableau, Power BI
-- **Areas of Interest:** Machine Learning, Deep Learning, Artificial Intelligence, Data Analysis
+- **Languages:** Python, SQL, R, SQLite3
+- **Tehnologies:** Linux, Power BI, Excel, LookerStudio, \LaTeX.
+- **Other Programing Tools**
+  - **Deep learning frameworks:** Keras, Tensorflow, Pytorch.
+  - **Python:** sci-kit, pandas, numpy, matplotlib, seaborn.
+  - **R:** dplyr, ggplot, tidyr, shiny, plumber.
+  - **SQL:** Advanced querying (joins, subqueries, functions), data manipulation (insert, update, delete), SQLite.
 
 ## 📂 Projects
 Here you'll find a portfolio of my projects, showcasing my skills in machine learning, deep learning, and AI. These projects illustrate my ability to apply theoretical knowledge to practical challenges, creating innovative solutions that leverage the latest advancements in technology.
