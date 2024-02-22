@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 
 ## 🎓 Education
 - **B.Sc. Physics** - Autonomous University of Querétaro (UAQ), México (2019-2024)
-  - Relevant coursework: Advanced Quantum Mechanics, Numerical Analysis, Analysis of Probabilistic Systems, Dynamical Systems, Artificial Intelligence.
+  - Relevant courses: Advanced Quantum Mechanics, Programming I and II, Numerical Analysis, Analysis of Probabilistic Systems, Dynamical Systems I and II and Artificial Intelligence.
 
 ## 📜 Certifications
 - **IBM Certified Data Scientist** - Specialization in Data Science Methodology, Python for Data Science, AI & Development, Databases and SQL for Data Science with Python.
