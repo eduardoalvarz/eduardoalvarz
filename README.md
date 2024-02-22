@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 
 ## 💼 Professional Experience
 - **Deep Learning for Atmospheric Pollutant Forecasting** - Developed a transformer-based neural network to forecast PMCO levels in Mexico City, showing significant improvement over traditional models.
-- **Contribution to the Development of the K’OTO Nanosatellite** - Implemented algorithms for data and signal processing, enhancing the nanosatellite's capabilities for scientific research.
+- **Satellite Systems Developer - K'OTO Project** - Developed Linux server and data processing algorithms for the K'OTO Nanosatellite project.
 
 ## 🛠 Skills
 - **Languages:** Python, C++, SQL, R
@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 Here you'll find a portfolio of my projects, showcasing my skills in machine learning, deep learning, and AI. These projects illustrate my ability to apply theoretical knowledge to practical challenges, creating innovative solutions that leverage the latest advancements in technology.
 
 - [Deep Learning for Atmospheric Pollutant: Forecasting](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
+- [Data Science Capstone for Winning Space Race]()
 - [Data Analysis for Insurance Cost: Predictions](https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost)
 - [Data Analysis for Historical Automobile Sales: Visualizations](https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales)
 - [Webscraping for Stock Data](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
