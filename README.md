@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics and certified Data Sc
   - Relevant courses: Advanced Quantum Mechanics, Programming I and II, Numerical Analysis, Analysis of Probabilistic Systems, Dynamical Systems I and II and Artificial Intelligence.
 
 ## 📜 Certifications
-- **IBM Certified Data Scientist** - Specialization in Data Science Methodology, Python for Data Science, AI & Development, Databases and SQL for Data Science with Python.
+- **IBM Data Science Professional Certificate - ID:** - Comprehensive mastery of data science, Python and R programming, application of methodologies (CRISP-DM), hands-on project experience, SQL proficiency, data cleaning and visualization skills, implementation and evaluation of machine learning models, and advanced proficiency in data visualization techniques.
 
 ## 💼 Professional Experience
 - **Deep Learning for Atmospheric Pollutant Forecasting** - Developed a transformer-based neural network to forecast PMCO levels in Mexico City, showing significant improvement over traditional models.
