@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics graduate and certifie
 - **Satellite Systems Developer - K'OTO Project** - Developed Linux server and data processing algorithms for the K'OTO Nanosatellite project.
 
 ## 🛠 Skills
-- **Languages:** Python, C++, SQL, R
+- **Languages:** Python, SQL, R
 - **Frameworks/Tools:** TensorFlow, PyTorch, Pandas, NumPy, Linux, Tableau, Power BI
 - **Areas of Interest:** Machine Learning, Deep Learning, Artificial Intelligence, Data Analysis
 
