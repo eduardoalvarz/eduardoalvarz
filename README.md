@@ -25,11 +25,16 @@ Welcome to my GitHub profile! I'm Eduardo, a B.Sc. Physics and certified Data Sc
 ## 📂 Projects
 Here you'll find a portfolio of my projects, showcasing my skills in machine learning, deep learning, and AI. These projects illustrate my ability to apply theoretical knowledge to practical challenges, creating innovative solutions that leverage the latest advancements in technology.
 
-- [Deep Learning for Atmospheric Pollutant: Forecasting](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
-- [Data Science Capstone for Winning Space Race](https://github.com/eduardoalvarz/Data-Science-Capstone-for-Winning-Space-Race)
-- [Data Analysis for Historical Automobile Sales: Visualizations](https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales)
-- [Data Analysis for Insurance Cost: Predictions](https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost)
-- [Webscraping for Stock Data](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
+- **Deep Learning**
+  - [Deep Learning for Atmospheric Pollutant: Forecasting (Python)](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
+
+- **Data Science**
+  - [Data Science Capstone for Winning Space Race (Python)](https://github.com/eduardoalvarz/Data-Science-Capstone-for-Winning-Space-Race)
+
+- **Data Analysis**
+  - [Data Analysis for Historical Automobile Sales: Visualizations (Python)](https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales)
+  - [Data Analysis for Insurance Cost: Predictions (Python)](https://github.com/eduardoalvarz/Data-Analysis-For-Insurance-Cost)
+  - [Webscraping for Stock Data (Python)](https://github.com/eduardoalvarz/Webscraping-Stock-Data-Extraction-and-Visualization)
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [luis-eduardo-mauricio-alvarez](https://www.linkedin.com/in/luis-eduardo-mauricio-alvarez/)
