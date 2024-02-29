@@ -29,7 +29,7 @@ Here you'll find a portfolio of my projects, showcasing my skills in machine lea
   - [Deep Learning for Atmospheric Pollutant: Forecasting (Python)](https://github.com/eduardoalvarz/DL-Transformer-PollutantForecasting)
 
 - **Data Science**
-  - [Data Science Capstone for Winning Space Race (Python)](https://github.com/eduardoalvarz/Data-Science-Capstone-for-Winning-Space-Race)
+  - [Data Science Capstone for Winning Space Race (Python/SQL/Power BI)](https://github.com/eduardoalvarz/Data-Science-Capstone-for-Winning-Space-Race)
 
 - **Data Analysis**
   - [Data Analysis for Historical Automobile Sales: Visualizations (Python)](https://github.com/eduardoalvarz/Data-Analysis-for-Historical-Automobile-Sales)
